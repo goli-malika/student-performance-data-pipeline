@@ -1,0 +1,11 @@
+StudentID,Name,Gender,Math,Science,English,Attendance,Average,Performance
+1,Alice,Female,85,90,88,95,87.66666666666667,Good
+2,Bob,Male,78,75,80,88,77.66666666666667,Good
+3,Charlie,Male,92,89,94,98,91.66666666666667,Excellent
+4,David,Male,65,70,68,80,67.66666666666667,Needs Improvement
+5,Eva,Female,88,91,90,96,89.66666666666667,Good
+6,Frank,Male,72,74,70,85,72.0,Needs Improvement
+7,Grace,Female,95,93,97,99,95.0,Excellent
+8,Harry,Male,60,58,62,75,60.0,Needs Improvement
+9,Ivy,Female,82,85,84,90,83.66666666666667,Good
+10,Jack,Male,77,79,76,87,77.33333333333333,Good
